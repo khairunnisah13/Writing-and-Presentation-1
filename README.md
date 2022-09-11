@@ -188,7 +188,7 @@ space-between untuk memberikan jarak antar item
 space-around 
 space-evenly
 
-## 1. Algoritma dan Psuedocode
+## 5. Algoritma dan Psuedocode
 
 Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah
 
