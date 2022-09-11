@@ -118,7 +118,17 @@ Deploy adalah sebuah proses untuk menyebarkan aplikasi yang sudah kita kerjakan 
 4. masuk ke tab sites lalu drop and drug file yang akan di deploy
 
 ## 4. CSS
+CSS (Cascading Style Sheets) adalah bahasa komputer untuk mempercantik dan mendesain tampilan website  agar menarik dilihat. CSS dapat mengubah warna, menggunakan font custom, editing text format, mengatur tata letak, dan lainnya.
 
+### CSS Struktur
+![image](https://user-images.githubusercontent.com/109327181/189520261-fa489673-8a4b-4287-aee4-391f133231cf.png)
+
+### Cara menggunakan CSS
+1. Inline CSS, yaitu menggunakan attribute style untuk menyisipkan kode CSS langsung di dalam HTML element.
+
+2. Internal CSS, yaitu menggunakan element <style> untuk menyisipkan kode CSS. Element <style> tersebut diletakkan di dalam element .
+
+3. External CSS, yaitu sebuah file CSS terpisah yang disambungkan dengan file HTML dengan menggunakan element <link>.
 
 
 ** Copywright By Khairunnisah - 2022**
