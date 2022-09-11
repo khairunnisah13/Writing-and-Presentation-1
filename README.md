@@ -110,4 +110,15 @@ Cek dokumentasi :
 Resource by Mozilla https://developer.mozilla.org/en-US/docs/Web/HTML/Element#:~:text=The%20HTML%20element%20contains,or%20part%20of%20a%20document.&text=The%20HTML%20Title%20element%20(%20%3Ctitle,bar%20or%20a%20page's%20tab.
 Documentation by W3schools https://www.w3schools.com/tags/default.asp
 
+### Deploy HTML
+Deploy adalah sebuah proses untuk menyebarkan aplikasi yang sudah kita kerjakan supaya bisa digunakan oleh orang-orang. 
+1. Gunakan tools bernama netlify
+2. Masuk ke netlify.com
+3. Register menggunakan akun github jika telah memiliki akun github
+4. masuk ke tab sites lalu drop and drug file yang akan di deploy
+
+## 4. CSS
+
+
+
 ** Copywright By Khairunnisah - 2022**
