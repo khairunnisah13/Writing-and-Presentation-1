@@ -190,9 +190,11 @@ space-evenly
 
 ## 5. Algoritma dan Psuedocode
 
-Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah
+Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah. hal wajib yang harus ada pada sebuah algoritma adalah input/output, data struktur, step-step yang jelas dan clear, algoritma itu murni cara berfikir untuk menyelesaikan suatu masalah bukan code bahasa pemograman, dan algoritma dibuat agar dapat digunakan pada bahasa pemograman
 
-Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
+belajar algoritma bertujuan untuk menyelesaikan suatu masalah secara logic
+
+Pseudocode adalah tools atau alat untuk menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
 
 
 
