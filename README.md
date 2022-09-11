@@ -130,5 +130,71 @@ CSS (Cascading Style Sheets) adalah bahasa komputer untuk mempercantik dan mende
 
 3. External CSS, yaitu sebuah file CSS terpisah yang disambungkan dengan file HTML dengan menggunakan element <link>.
 
+beberapa cara styling HTML di file CSS sebagai berikut:
+
+a. Tag name contoh penulisan code di file css 
+
+h1 {
+color: red;
+}
+
+b. class name, contoh penulisan code css
+
+.title { color: blue;}
+
+c. id name, contoh penulisan code css
+
+#navigation { margin: 0px;
+padding: 0px;}
+
+d. chaining selector yaitu pemberian styling berbeda pada beberapa element yang sama. penggunaan chaining selector dengan memberikan atribut class pada element HTML. 
+
+e. multiple selector, ini digunakan untuk mempermudah programer serta agar proses programing menjadi efektiv. contoh
+
+h1,p { color: red;}
+
+### Flexbox
+
+Flexbox adalah cara untuk mengatur layout. flexbox memiliki 1 parents yang dikenal dengan sebutan container dan memiliki beberapa item.
+
+beberapa cara mengatur tata letak dengan flexbox sebagai berikut:
+
+#### 1. flexbox direction
+
+digunakan untuk mengatur tata letak item. terdiri dari 4 value yaitu:
+
+- row (default): letak item membentuk sebuah baris dari kiri ke kanan.
+- row-reverse: letak item membentuk sebuah baris dari kanan ke kiri.
+- column: letak item child membentuk sebuah baris dari atas ke bawah.
+- column-reverse: letak item child membentuk sebuah baris dari bawah ke atas.
+
+#### 2. order
+
+order adalah urutan penempatan item yang berada di dalam container.
+
+#### 3. Flex-wrap
+
+digunakan untuk membatasi jumlah item di dalam line baru dan menambahkan item lainnya pada line baru di dalam container yang sama.
+
+#### 4. Justify-Content
+
+properti justify-content digunakan untuk mengatur tata letak dan space antar item secara horizontal atau main axis.
+justify-content memiliki 6 value yaitu:
+
+flex-start untuk meletakkan item disebelah kiri
+flex-end untuk meletakkan item disebelah kanan
+center untuk meletakkan item ditengah
+space-between untuk memberikan jarak antar item
+space-around 
+space-evenly
+
+## 1. Algoritma dan Psuedocode
+
+Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah
+
+Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
+
+
+
 
 ** Copywright By Khairunnisah - 2022**
