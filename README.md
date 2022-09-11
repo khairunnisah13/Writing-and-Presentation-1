@@ -194,7 +194,30 @@ Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan 
 
 belajar algoritma bertujuan untuk menyelesaikan suatu masalah secara logic
 
-Pseudocode adalah tools atau alat untuk menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu.
+Pseudocode adalah tools atau alat untuk menuliskan algoritma dengan umumnya bahasa inggris sebelum kita implementasikan ke bahasa pemograman tertentu. Terdapat 5 cara menulis Pseudocode yaitu:
+- menggunakan huruf kapital pada kalimat seperti IF, THEN, Save dll
+- 1 statement atau kalimat terdiri dari 1 baris
+- menggunakan identasi atau baris yang menjorok
+- menggunakan bahasa spesifik agar tidak ambigu
+- tetap simpel, efesien dan tepat.
+
+
+Procedural adalah cara berpikir secara runtun. Artinya serangkaian perintah yang berurutan.
+
+conditional diibaratkan programer bermain dengan sebuah kondisi. contoh; jika hujan maka bawa payung, tidak hujan berarti tidak bawa payung. contoh lain: 
+
+store "score" to any number
+
+IF score <70 
+ D0 "learn more"
+ELSE 
+DO "Reward Myself"
+DO "Continue with Live....."
+
+Looping adalah cara komputer dapat melakukan sebuah proses yang sama berulang-ulang.
+Jika membutuhkan perulangan dalam kasus tertentu, kita bisa menggunakan Looping.
+
+Recursive adalah pola fikir algoritma dengan pemanggilan fungsi
 
 
 
